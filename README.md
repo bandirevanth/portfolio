@@ -1,2 +1,2 @@
-# bandirevanth.github.io
-My portfolio website.... 🌟
+# Bandi Revanth
+My portfolio website... 🌟
