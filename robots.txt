@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://revanth.github.io/sitemap.xml
